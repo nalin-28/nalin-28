@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">
+  <samp>Hi👋 I'm Nalin</samp>
+</h1>
 
+<h2 align="center">Welcome to my Profile!</h2>
 <!--
 **nalin-28/nalin-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
